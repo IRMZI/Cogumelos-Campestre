@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant&family=Koulen&family=Poppins&family=Teko&family=Work+Sans:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    font-size: 100%;
+    background-color: #847F7F;
+}
+
+.header{
+    background-color: #252323;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+#header-logo{
+    border-radius: 50px;
+    height: 100px;
+}
+#header-inicio{
+    margin-right: 500px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+color: #00FF19;
+}
+
+.primeiro-conteudo{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    align-items: center;
+background-image: url("imgs/BG.jpg");
+}
+.titulo-bemvindo{
+    margin-top: 50px;
+    font-family: 'Koulen';
+font-style: normal;
+font-weight: 400;
+font-size: 92px;
+line-height: 166px;
+text-shadow: 1px 1px 2px black;
+color: #FFFFFF;
+}
+.subtitulo-bemvindo{
+    font-family: 'Teko';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 46px;
+text-shadow: 1px 1px 2px black;
+color: #FFFFFF;
+border-top: 0.7px solid #FFFFFF;
+}
+.Segundo-conteudo{
+    background-color: #E1E1E1;;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.imagem-sobre{
+margin-top: 200px;
+margin-bottom: 200px;
+margin-left: 200px;
+margin-right: 50px;
+ height: 300px;
+}
+.titulo-sobrenos{
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: 700;
+    margin-left: 250px;
+    font-size: 72px;
+    line-height: 111px;
+    color: #353535;
+}
+.conteudo-sobrenos{
+    text-align: center;
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 36px;
+    
+    color: #000000;
+    
+}
