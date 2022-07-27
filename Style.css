@@ -12,3 +12,17 @@ body{
     background-color: #847F7F;
 }
 
+#header{
+    background-color: #4D4D4D;
+}
+.logo{
+    margin:10px;
+    border-radius: 100px;
+
+}
+.header-logo{
+    text-align: center;
+}
+#imagemfundos1{
+    padding:0px%;
+}
