@@ -94,3 +94,36 @@ margin-right: 50px;
     color: #000000;
     
 }
+.titulo-nossosprodutos{
+text-align: center;
+font-family: 'Cormorant';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 85px;
+}
+.terceiro-conteudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;  
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+}
+.produtos{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+
+.produtoum{
+    height: 200px;
+}
+.produtodois{
+    height: 200px;
+}
+.produtotres{
+    height: 200px;
+}
