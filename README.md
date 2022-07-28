@@ -1,2 +1,4 @@
 # Cogumelos-Campestre
- Site baseado em HTML/CSS/JS
+Construindo site para o meu pai.
+------.----------.----------.---
+##html/css/js##
