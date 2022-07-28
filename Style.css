@@ -24,7 +24,7 @@ body{
     text-align: center;
 }
 #imagemfundos1{
-    padding:0px;
+    width:484px;
 }
 
 .row{
@@ -48,4 +48,28 @@ body{
 
 .titulo-s3{
     margin-top: 40px;
+}
+
+#imagem-sobre{
+    text-align: center;
+    height: 50%;
+}
+#sobre-titulo{
+    text-align: center;
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 111px;
+    color: #353535;
+}
+#sobre-conteudo{
+    text-align: center;
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 36px;
+    
+    color: #000000;
 }
