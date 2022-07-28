@@ -24,5 +24,28 @@ body{
     text-align: center;
 }
 #imagemfundos1{
-    padding:0px%;
+    padding:0px;
+}
+
+.row{
+    margin-top: 30px;
+}
+
+.sobre{
+    text-align: start;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-left: 30px;
+    
+}
+.s3{
+
+}
+
+.row1-s3{
+    text-align: center;
+}
+
+.titulo-s3{
+    margin-top: 40px;
 }
