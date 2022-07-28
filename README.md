@@ -1,4 +1,2 @@
 # Cogumelos-Campestre
-Construindo site para o meu pai.
-------.----------.----------.---
-##html/css/js##
+Criando site para o meu pai utilizando html,css(w/ bootstrap),JS!
