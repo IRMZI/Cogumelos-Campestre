@@ -1,2 +1,2 @@
 # Cogumelos-Campestre
-Criando site para o meu pai utilizando html,css(w/ bootstrap),JS!
+Criando site para a empresa cogumelos campestre utilizando html,css(w/ bootstrap),JS!
